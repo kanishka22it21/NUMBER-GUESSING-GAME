@@ -23,12 +23,12 @@ A simple JavaFX-based Number Guessing Game where users try to guess a randomly g
 
 To run the application, follow these steps:
 
-### Prerequisites
+## Prerequisites
 
 - **Java Development Kit (JDK):** Ensure you have JDK 8 or later installed.
 - **JavaFX SDK:** Ensure JavaFX is properly set up in your environment.
 
-### Compile and Run
+## Compile and Run
 
 
 ```bash
@@ -36,7 +36,7 @@ To run the application, follow these steps:
   java Main
 ```
 
-### Features
+## Features
 
 - **Start the Game:** Enter your guess (a number between 1 and 100) in the provided text field.
 - **Submit Guess:** Click the "Guess" button to see feedback.
