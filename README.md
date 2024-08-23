@@ -44,7 +44,14 @@ To run the application, follow these steps:
     - If your guess is too high, the game will prompt you to try a lower number.
     -  If you guess correctly, you'll receive a congratulatory message.
 - **Track Attempts:** The game will display the number of attempts made.
-- **Reset Game:** Click the "Reset" button to start a new game with a new number
+- **Reset Game:** Click the "Reset" button to start a new game with a new number.
+
+  
+## Conclusion
+
+Thank you for checking out the Number Guessing Game! If you have any questions, suggestions, or contributions, please feel free to reach out or submit a pull request. Enjoy the game and happy guessing!
+
+  
 
 
 
