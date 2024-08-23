@@ -30,12 +30,26 @@ To run the application, follow these steps:
 
 ### Compile and Run
 
-Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse, NetBeans) or compile and run it directly from the command line:
 
 ```bash
-javac Main.java
-java Main
+  javac Main.java
+  java Main
+```
 
-**### File struture **
+### Features
+
+- **Start the Game:** Enter your guess (a number between 1 and 100) in the provided text field.
+- **Submit Guess:** Click the "Guess" button to see feedback.
+    - If your guess is too low, the game will prompt you to try a higher number.
+    - If your guess is too high, the game will prompt you to try a lower number.
+    -  If you guess correctly, you'll receive a congratulatory message.
+- **Track Attempts:** The game will display the number of attempts made.
+- **Reset Game:** Click the "Reset" button to start a new game with a new number
+
+
+
+
+
+
 
 
