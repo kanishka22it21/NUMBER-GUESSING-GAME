@@ -21,6 +21,13 @@ A simple JavaFX-based Number Guessing Game where users try to guess a randomly g
 
 ## Installation
 
+- **Clone the repository:**
+
+    ```bash
+    git clone <repository-url>
+    cd <repository-directory>
+    ```
+
 To run the application, follow these steps:
 
 ## Prerequisites
