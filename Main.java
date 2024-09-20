@@ -7,7 +7,6 @@ import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
 import java.util.Random;
-
 public class Main extends Application {
 
     private int targetNumber;
